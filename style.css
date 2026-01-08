@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(#6ec6ff, #e0f7fa);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: white;
+  padding: 16px;
+  border-radius: 14px;
+  box-shadow: 0 15px 40px rgba(0,0,0,.2);
+  text-align: center;
+}
+
+canvas {
+  background: linear-gradient(#70c5ce, #ffffff);
+  border-radius: 12px;
+  display: block;
+}
